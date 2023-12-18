@@ -2,7 +2,7 @@
 
 
 - 🔭 Me formei em Direito, mas estou em transição de carreira para a área de tecnologia. Desejo trabalhar como front-end. 
-- 🌱 Estudando JavaScript e Bootstrap 
+- 🌱 Estudando React e Python
 - 📫 Contato: marianachoratto@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Adora ler 📖
