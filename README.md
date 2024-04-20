@@ -2,7 +2,7 @@
 
 
 - 🔭 Me formei em Direito, mas estou em transição de carreira para a área de tecnologia. 
-- 🌱 Estudando React e Python
+- 🌱 Estudando React e cypress
 - 📫 Contato: marianachoratto@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Adora ler 📖
