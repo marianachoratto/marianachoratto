@@ -52,5 +52,5 @@
 * Certificado em proficiência em inglês- Michigan University
 
 ## Exemplos do meu trabalho
-*[Projeto final Raro Academy](https://github.com/marianachoratto/academy-qa-trabalho-final-grupo-3)- criação de testes automatizados, documentação de testes, reporte de bugs 
+* [Projeto final Raro Academy](https://github.com/marianachoratto/academy-qa-trabalho-final-grupo-3): criação de testes automatizados, documentação de testes, reporte de bugs 
           
