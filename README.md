@@ -1,24 +1,53 @@
-### Olá! Meu nome é Mariana Choratto 👋
+# Portfólio
 
+### About me :wave:
 
-- 🔭 Me formei em Direito, mas estou em transição de carreira para a área de tecnologia. 
-- 🌱 Estudando React e cypress
+- Olá! Meu nome é Mariana Choratto 👋
+- 🔭 Estou em transição de carreira para a área de QA.
 - 📫 Contato: marianachoratto@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Adora ler 📖
 
+[My Linkedin profile](https://www.linkedin.com/in/mariana-choratto-35b4821a4/)
 
-  <div style="display: inline_block"><br>
-    
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-          
-</div><br>
-          
+## Linguagens 
+* Javascript
+* Python
+* NodeJS
+* SQL
+
+## Habilidades
+* Testes Manuais
+* Testes automatizados
+* Documentação de testes
+* Reporte de Bugs
+* Behavior Driven Development (BDD)
+* Test Driven Developmet (TDD)
+* Gherkin
+* SCRUM
+* Metodologia ágil/ agile development 
+
+## Ferramentas :wrench:
+* [Cypress](https://docs.cypress.io/guides/overview/why-cypress)
+* [Cypress com Cucumber](https://github.com/badeball/cypress-cucumber-preprocessor)
+* [Postman](https://www.postman.com/)
+* [Robot framework](https://robotframework.org/)
+* [Git](https://git-scm.com/) 
+* [GitHub](https://github.com/)
+
+## Gestão de Projetos
+* [Trello](https://trello.com/pl/tour)
+* [Slack](https://slack.com/intl/pt-br/)
+
+  ## Cursos e certificados
+* Raro Academy: 2º Turma de QA
+* WomakersCode: Bootcamp Back-end de Python, Flask e Django 
+* Aprender a aprender: técnicas para o seu autodesenvolvimento 
+* Lógica de programação: mergulhe em programação com Javascript 
+* Desvendando o Github- WomakersCode 
+* MySQL - Curso em Vídeo 
+* Desenvolvimento de jogos- Potência Tech Ifood 
+* Curso Javascript- Curso em Vídeo 
+* Curso HTML e CSS3- Curso em Vídeo 
+* Certificado em proficiência em inglês- Michigan University 
           
