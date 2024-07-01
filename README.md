@@ -49,5 +49,8 @@
 * Desenvolvimento de jogos- Potência Tech Ifood 
 * Curso Javascript- Curso em Vídeo 
 * Curso HTML e CSS3- Curso em Vídeo 
-* Certificado em proficiência em inglês- Michigan University 
+* Certificado em proficiência em inglês- Michigan University
+
+## Exemplos do meu trabalho
+*[Projeto final Raro Academy](https://github.com/marianachoratto/academy-qa-trabalho-final-grupo-3)- criação de testes automatizados, documentação de testes, reporte de bugs 
           
