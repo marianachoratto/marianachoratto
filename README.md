@@ -58,5 +58,5 @@
 * [Jogo do Yu-Gi-Oh](https://marianachoratto.github.io/js-yugioh-assets/)
 * [Jogo da Memória](https://marianachoratto.github.io/Jogo-da-Memoria-Bootcamp-Ifood/)
 * [Jogo do Detona Ralph](https://marianachoratto.github.io/Jogo-Detona-Ralph-Bootcamp-Ifood/)
-* [Projeto Mini Netflix com API](https://projeto-mini-netflix.vercel.app/)
+* [Projeto Mini Netflix com API](https://projeto-mini-netflix.vercel.app/): feito com a API de filmes https://www.themoviedb.org
           
