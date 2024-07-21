@@ -3,7 +3,7 @@
 ### About me :wave:
 
 - Olá! Meu nome é Mariana Choratto 👋
-- 🔭 Estou em transição de carreira para a área de QA.
+- 🔭 Estou em transição de carreira para a área de tecnologia.
 - 📫 Contato: marianachoratto@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Adora ler 📖
