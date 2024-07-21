@@ -15,6 +15,7 @@
 * Python
 * NodeJS
 * SQL
+* React
 
 ## Habilidades
 * Testes Manuais
@@ -52,5 +53,10 @@
 * Certificado em proficiência em inglês- Michigan University
 
 ## Exemplos do meu trabalho
-* [Projeto final Raro Academy](https://github.com/marianachoratto/academy-qa-trabalho-final-grupo-3): criação de testes automatizados, documentação de testes, reporte de bugs 
+* [Projeto final Raro Academy](https://github.com/marianachoratto/academy-qa-trabalho-final-grupo-3): criação de testes automatizados, documentação de testes, reporte de bugs
+* [Projeto Blog de Livros com Django](https://marianacarla.pythonanywhere.com/)
+* [Jogo do Yu-Gi-Oh](https://marianachoratto.github.io/js-yugioh-assets/)
+* [Jogo da Memória](https://marianachoratto.github.io/Jogo-da-Memoria-Bootcamp-Ifood/)
+* [Jogo do Detona Ralph](https://marianachoratto.github.io/Jogo-Detona-Ralph-Bootcamp-Ifood/)
+* [Projeto Mini Netflix com API](https://projeto-mini-netflix.vercel.app/)
           
