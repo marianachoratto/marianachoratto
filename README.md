@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariana Choratto</h1>
-<h3 align="center">A passionate QA who is always trying to improve</h3>
+<h3 align="center">A passionate QA who is always trying to learn something new</h3>
 
 - 🔭 I’m currently working on [Raro Labs](https://www.linkedin.com/company/raro-labs/posts/?feedView=all)
 
