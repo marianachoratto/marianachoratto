@@ -23,6 +23,7 @@
 ## Project Management
 * [Trello](https://trello.com/pl/tour)
 * [Slack](https://slack.com/intl/pt-br/)
+* [Slack]([https://slack.com/intl/pt-br/](https://www.atlassian.com/software/jira))
 
   ## Certificades and courses
 * Raro Academy: 2º Turma de QA
@@ -36,11 +37,11 @@
 * Curso HTML e CSS3- Curso em Vídeo 
 * Certificado em proficiência em inglês- Michigan University
 
-## Projects
+## Personal Projects
 * [Projeto final Raro Academy](https://github.com/marianachoratto/academy-qa-trabalho-final-grupo-3): criação de testes automatizados, documentação de testes, reporte de bugs
 * [Projeto Blog de Livros com Django](https://marianacarla.pythonanywhere.com/)
 * [Jogo do Yu-Gi-Oh](https://marianachoratto.github.io/js-yugioh-assets/)
 * [Jogo da Memória](https://marianachoratto.github.io/Jogo-da-Memoria-Bootcamp-Ifood/)
 * [Jogo do Detona Ralph](https://marianachoratto.github.io/Jogo-Detona-Ralph-Bootcamp-Ifood/)
-* [Projeto Mini Netflix com API](https://projeto-mini-netflix.vercel.app/): feito com a API de filmes https://www.themoviedb.org
+* [Projeto Mini Netflix com API](https://projeto-mini-netflix.vercel.app/)
           
